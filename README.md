@@ -12,7 +12,7 @@
 ## About The Project
 
 These are several scripts created as part of a C++ single course (scientific computing) followed at Copenhagen University. 
-Usually part of their master program but followed as an seperate elective. 
+Usually part of their master program but followed as an seperate elective. (2023)
 
 ### Built With
 <div align="center">
